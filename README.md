@@ -7,7 +7,7 @@ share_code
 I do not known where they are from. If the codes' owner has declared the Copyright and/or
 Copyleft, they will be kept. Anything Else check the declaration below, please. 
   
-=========================================================================================
+///////////////////////////////////////////////////////////////////////////////////////////
   
   Copyright (C) <2012> <freshanak@gmail.com>
 
@@ -29,4 +29,4 @@ DEALINGS IN THE SOFTWARE.
 
 Bug reports, feedback, admiration, abuse, etc, To: <freshanak@gmail.com>.
 
-==========================================================================================
+///////////////////////////////////////////////////////////////////////////////////////////
