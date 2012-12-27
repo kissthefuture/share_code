@@ -6,6 +6,9 @@ share_code
   All codes are collected from teaching material, blogs, open source projects and/or even
 I do not known where they are from. If the codes' owner has declared the Copyright and/or
 Copyleft, they will be kept. Anything Else check the declaration below, please. 
+
+  This project is open source. It is released mainly as "MIT license". If you prefer another
+open source license, just contact me and I'll try to add your preferred license as well.
   
 ///////////////////////////////////////////////////////////////////////////////////////////
   
